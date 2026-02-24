@@ -116,6 +116,15 @@ from KAN_initialization_v2 import smart_kan_initialization
 # Strategies: 'optimal', 'conservative', 'aggressive', 'stable', 'sparse'
 smart_kan_initialization(model, strategy="stable")
 ```
+## Installation
+### From pip
+pip install git+https://github.com/tu-usuario/dfkan.git
+
+### From sources
+git clone https://github.com/BioSiP/dfkan.git
+cd dfkan
+pip install -e .
+
 
 ##  License
 MIT License
