@@ -1,0 +1,7 @@
+# crea este archivo en la raíz del proyecto
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.env
