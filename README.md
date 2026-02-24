@@ -17,14 +17,16 @@ This library extends the KAN paradigm to dense, convolutional (1D, 2D, 3D), and 
 
 | File | Description |
 | :--- | :--- |
-| **`KAN_shared_poly6.py`** | **Core Library.** Contains `DualFlexKANLinear` and the main `DualFlexKAN` dense network implementation. |
+| **`KAN_shared_poly7.py`** | **Core Library.** Contains `DualFlexKANLinear` and the main `DualFlexKAN` dense network implementation. |
 | **`KAN_activation.py`** | Library of activation functions (Polynomial, Legendre, RBF, B-Spline, etc.). |
 | **`KAN_initialization_v2.py`** | Advanced initialization logic offering 10 linear and 6 polynomial strategies. |
-| **`DFKAN_conv.py`** | **Convolutional KANs.** Implements `DualFlexKANConv1d/2d/3d` and full CNN wrappers. |
-| **`DFKAN_autoencoder.py`** | Wrapper for building flexible Autoencoders with different input/output sizes. |
-| **`DFKAN_betaVAE.py`** | Implementation of Beta-Variational Autoencoders using DualFlexKAN. |
+| **`DFKAN_conv.py* `** | **Convolutional KANs.** Implements `DualFlexKANConv1d/2d/3d` and full CNN wrappers. |
+| **`DFKAN_autoencoder.py*`** | Wrapper for building flexible Autoencoders with different input/output sizes. |
+| **`DFKAN_betaVAE.py*`** | Implementation of Beta-Variational Autoencoders using DualFlexKAN. |
 | **`save_load_utils.py`** | Utilities for saving/loading models, configs, and experiments. |
 
+* -> Not yet published
+  
 ## Requirements
 
 *   Python 3.8+
