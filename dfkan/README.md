@@ -11,7 +11,7 @@ pip install dfkan
 Or from source:
 
 ```bash
-git clone https://github.com/your-username/dfkan.git
+git clone https://github.com/BioSiP/dfkan.git
 cd dfkan
 pip install -e .
 ```
