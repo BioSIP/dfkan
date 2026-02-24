@@ -118,7 +118,7 @@ smart_kan_initialization(model, strategy="stable")
 ```
 ## Installation
 ### From pip
-pip install git+https://github.com/tu-usuario/dfkan.git
+pip install git+https://github.com/BioSiP/dfkan.git
 
 ### From sources
 git clone https://github.com/BioSiP/dfkan.git
